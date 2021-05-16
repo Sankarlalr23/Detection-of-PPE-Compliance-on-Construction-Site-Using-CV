@@ -6,5 +6,7 @@ The Project folder is well structured in Google drive. Link : https://drive.goog
 The weights file is not uploaded due to its large size. You can find it here. https://drive.google.com/file/d/1Yc5kVGvl2T9ThOOR8LpylqCHKD_LBGfJ/view?usp=sharing
 
 The outputs can be found in the below links.
+
 Output Images: https://drive.google.com/drive/folders/1cql4u-uvTi6KDrcnhQ9eplzpqop6QrLE?usp=sharing
+
 Output Videos: https://drive.google.com/drive/folders/11ocbAFf9N6AW9jRrp6fXVqkaTuJfQLg4?usp=sharing
