@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainedit</folder>
+	<filename>nimage149.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/TrainValSet/trainedit/nimage149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>40</ymin>
+			<xmax>1030</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

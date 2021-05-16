@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val10</folder>
+	<filename>ngimage350.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/val10/ngimage350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>957</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>86</ymin>
+			<xmax>813</xmax>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+</annotation>

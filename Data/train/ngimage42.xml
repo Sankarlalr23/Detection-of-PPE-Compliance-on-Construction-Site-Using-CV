@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainedit</folder>
+	<filename>ngimage42.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/TrainValSet/trainedit/ngimage42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>853</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>58</ymin>
+			<xmax>604</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+</annotation>

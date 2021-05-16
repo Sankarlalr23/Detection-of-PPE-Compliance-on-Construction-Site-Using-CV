@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train9</folder>
+	<filename>worker178.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train9/worker178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>2</ymin>
+			<xmax>265</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

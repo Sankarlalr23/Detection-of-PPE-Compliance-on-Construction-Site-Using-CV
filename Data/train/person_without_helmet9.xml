@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train8</folder>
+	<filename>person_without_helmet9.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train8/person_without_helmet9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>13</ymin>
+			<xmax>283</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

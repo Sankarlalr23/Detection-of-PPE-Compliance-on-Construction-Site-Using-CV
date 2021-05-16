@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train10</folder>
+	<filename>ngimage447.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train10/ngimage447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>277</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoHardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>28</ymin>
+			<xmax>172</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

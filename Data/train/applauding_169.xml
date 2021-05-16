@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train7</folder>
+	<filename>applauding_169.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train7/applauding_169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>15</ymin>
+			<xmax>300</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

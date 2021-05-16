@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train5</folder>
+	<filename>ngimage162.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train5/ngimage162.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>86</ymin>
+			<xmax>421</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

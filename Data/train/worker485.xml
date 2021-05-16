@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train9</folder>
+	<filename>worker485.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/train9/worker485.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoJacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>6</ymin>
+			<xmax>107</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

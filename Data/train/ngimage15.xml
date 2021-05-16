@@ -1,0 +1,26 @@
+<annotation>
+	<folder>google1</folder>
+	<filename>ngimage15.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/google1/ngimage15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoJacket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>137</ymin>
+			<xmax>910</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

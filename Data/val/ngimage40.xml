@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>valedit</folder>
+	<filename>ngimage40.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/TrainValSet/valedit/ngimage40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>3</ymin>
+			<xmax>357</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val5</folder>
+	<filename>ngimage90.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/val5/ngimage90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NOTSAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>34</ymin>
+			<xmax>393</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

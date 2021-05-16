@@ -1,0 +1,26 @@
+<annotation>
+	<folder>valedit</folder>
+	<filename>nimage110.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/TrainValSet/valedit/nimage110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SAFE</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>1</ymin>
+			<xmax>532</xmax>
+			<ymax>849</ymax>
+		</bndbox>
+	</object>
+</annotation>

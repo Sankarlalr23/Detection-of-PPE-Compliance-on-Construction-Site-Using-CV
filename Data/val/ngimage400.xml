@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val10</folder>
+	<filename>ngimage400.jpg</filename>
+	<path>/home/sankar/Desktop/SankarMTP/stage2/images/val10/ngimage400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoHardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>11</ymin>
+			<xmax>364</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
