@@ -98,9 +98,15 @@ The weights file is not uploaded due to its large size. You can find it here. ht
 ## Special Thanks
 
 Special thanks to my friends who helped in creating a Novel dataset to test the model.
+
 @amarnath - https://www.facebook.com/amarnath.payanapotta
+
 @vaishnav - https://www.facebook.com/vaishnav.peethambaran
+
 @sujay - 
+
 @Andy - https://www.facebook.com/asfandjackson
+
 @rohan - https://www.facebook.com/rohanxyz
+
 @moorthy - https://www.facebook.com/ponambala.moorthy
