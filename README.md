@@ -95,3 +95,12 @@ Output Videos: https://drive.google.com/drive/folders/11ocbAFf9N6AW9jRrp6fXVqkaT
 
 The weights file is not uploaded due to its large size. You can find it here. https://drive.google.com/file/d/1Yc5kVGvl2T9ThOOR8LpylqCHKD_LBGfJ/view?usp=sharing
 
+## Special Thanks
+
+Special thanks to my friends who helped in creating a Novel dataset to test the model.
+@amarnath - https://www.facebook.com/amarnath.payanapotta
+@vaishnav - https://www.facebook.com/vaishnav.peethambaran
+@sujay - 
+@Andy - https://www.facebook.com/asfandjackson
+@rohan - https://www.facebook.com/rohanxyz
+@moorthy - https://www.facebook.com/ponambala.moorthy
