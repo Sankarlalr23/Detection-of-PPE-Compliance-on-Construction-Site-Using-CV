@@ -75,14 +75,22 @@ The confusion matrix for validation set, test set and new data set are as shown 
 
 ![image](https://user-images.githubusercontent.com/68675380/118489266-45aec580-b73a-11eb-9a87-3cbbb6d81ad3.png)
 
-# The outputs can be found in the below links.
+
+## RESULTS
+
+![img_output1](https://user-images.githubusercontent.com/68675380/118556168-2edf9180-b781-11eb-98f1-e32f6ac2615f.jpg)
+![img_output3](https://user-images.githubusercontent.com/68675380/118556189-356e0900-b781-11eb-8bfc-bf9a7100dc51.jpg)
+![img_output4](https://user-images.githubusercontent.com/68675380/118556209-3868f980-b781-11eb-8e6f-e6c4404f99b1.jpg)
+![img_output5](https://user-images.githubusercontent.com/68675380/118556215-3b63ea00-b781-11eb-90d3-2d25ab6fea21.jpg)
+
+
+
+
+# The results can be found in the below links.
 
 Output Images: https://drive.google.com/drive/folders/1cql4u-uvTi6KDrcnhQ9eplzpqop6QrLE?usp=sharing
 
 Output Videos: https://drive.google.com/drive/folders/11ocbAFf9N6AW9jRrp6fXVqkaTuJfQLg4?usp=sharing
-
-
-
 
 ## OTHER LINKS:
 
