@@ -1,5 +1,24 @@
 # Detection-of-PPE-Compliance-on-Construction-Site-Using-CV
-Construction safety is a matter of great concern for practitioners and researchers worldwide. Even after risk assessments have been conducted and adequate controls have been implemented, workers are still subject to safety hazards in construction work environments. The need for personal protective equipment (PPE) is important in this context. Automatic and real-time detection of the non-compliance of workers in using PPE is an important concern. Developments in the field of computer vision and data analytics, especially using deep learning algorithms have the potential to address this challenge in construction. This study developed a framework to sense in real-time, the safety compliance of construction workers with respect to PPE, which is intended to be integrated into the safety workflow of an organization. The study makes use of the Convolutional Neural Networks model, which was developed by applying transfer learning to a base version of the YOLOv3 deep learning network. Taking into account the presence of hardhat and safety jackets, the model predicts compliance in four categories such as NOT SAFE, SAFE, NoHardHat, and NoJacket. A data set of 2,509 images was collected from video recordings from several construction sites and this web-based collection was used to train the model. The model reported an F1 score of 0.96 with an average precision and recall rate at 96% on the test data set. Once a non “SAFE” category is detected by the model, an alarm and a timestamped report are also incorporated to enable a real-time integration and adoption on the construction sites. Overall, the study provides evidence on the feasibility and utility of computer vision-based techniques in automating the safety-related compliance processes at construction sites.
+
+## 1.	INTRODUCTION
+
+All over the world, construction is one of the most hazardous industries due to its unique nature. Construction safety is always a matter of concern for both practitioners and researchers. The number of fatal injury accidents reported every year is very high in construction industry. Even after sufficient risk assessments and the implementation of adequate controls in the work environment, workers could still be subject to health and safety risks from hazards, which is why Personal Protective Equipment (PPE) is important.
+
+Every week, a huge amount of pictures and videos are being captured on projects around the world, with many of them being used to track progress, resolve claims, identify quality issues, etc. Safety is of highest priority in construction, as per the OSHA report approximately 1 in 10 workers injured on the job site each year. It is not practically possible for dedicated safety experts to visit every site. But what if there was a way for these computer vision engines to review images and predict the level of safety in the site.
+
+This paper gives a model to detect people wearing PPE namely hardhat and safety jacket, save image instances and generate date wise report of those who are not wearing both. The model is created by applying transfer learning to YOLOv3 network.
+
+## 2.	FEATURES OF YOLOV3
+
+Transfer learning is applied to YOLOv3 to create the model; hence the basic network features remains the same. 
+
+YOLOv3 is a recent object classifier network, released on April 2018. YOLOv3 has a Frames Per Second (FPS) rate and Execution time of 35 and 29 milliseconds respectively on COCO dataset as shown in figure 1, mAP-50 is 55.3 for the same [1]. Another important feature is that YOLOv3 makes predictions at three different scales [1]. The predictions for the third scale benefit from all the prior computations as well as fine-grained features from early on in the network [1]. YOLOv3 performs very well in the fast detector category when speed is important [2]. When accuracy vs speed is plotted on the AP50 metric, YOLOv3 has significant benefits over other detection systems. Namely, faster and better [1]. For the same reason, this network is used, as we are dealing with real time detection of people wearing PPE on construction site. 
+
+![image](https://user-images.githubusercontent.com/68675380/118487749-a806c680-b738-11eb-91c5-af6b974ccb53.png)
+
+## 3.	EXPERIMENTAL METHOD  
+
+
 
 The Project folder is well structured in Google drive. Link : https://drive.google.com/drive/folders/17FcypMej-4hCIJ4112Ahgv5vez4uQi-B?usp=sharing
 
