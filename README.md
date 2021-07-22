@@ -107,6 +107,8 @@ Special thanks to my friends who helped in creating a Novel dataset to test the 
 
 @Andy - https://www.facebook.com/asfandjackson
 
+@Parth - https://www.facebook.com/parthrsavla
+
 @rohan - https://www.facebook.com/rohanxyz
 
 @moorthy - https://www.facebook.com/ponambala.moorthy
