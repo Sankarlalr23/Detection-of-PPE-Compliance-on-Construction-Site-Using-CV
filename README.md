@@ -85,7 +85,10 @@ https://user-images.githubusercontent.com/68675380/118556716-d8268780-b781-11eb-
 
 
 
-# The results can be found in the below links.
+
+## PUBLICATION:https://doi.org/10.3389/fbuil.2020.00136
+
+## The results can be found in the below links.
 
 Output Images: https://drive.google.com/drive/folders/1cql4u-uvTi6KDrcnhQ9eplzpqop6QrLE?usp=sharing
 
