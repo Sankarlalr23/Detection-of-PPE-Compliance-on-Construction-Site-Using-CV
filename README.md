@@ -86,8 +86,6 @@ https://user-images.githubusercontent.com/68675380/118556716-d8268780-b781-11eb-
 
 
 
-## PUBLICATION:https://doi.org/10.3389/fbuil.2020.00136
-
 ## The results can be found in the below links.
 
 Output Images: https://drive.google.com/drive/folders/1cql4u-uvTi6KDrcnhQ9eplzpqop6QrLE?usp=sharing
@@ -97,6 +95,9 @@ Output Videos: https://drive.google.com/drive/folders/11ocbAFf9N6AW9jRrp6fXVqkaT
 ## OTHER LINKS:
 
 The weights file is not uploaded due to its large size. You can find it here. https://drive.google.com/file/d/1Yc5kVGvl2T9ThOOR8LpylqCHKD_LBGfJ/view?usp=sharing
+
+## PUBLICATION:
+https://doi.org/10.3389/fbuil.2020.00136
 
 ## Special Thanks
 
